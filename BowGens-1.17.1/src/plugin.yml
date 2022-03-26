@@ -1,0 +1,15 @@
+name: BowGens-1.17.1
+version: v6 alpha
+api-version: 1.17
+author: Neuxs
+main: me.Neuxs.BowgensPlugin.Plugin
+Description: The official plugin for the server Bow Gens at bowgens.minehut.gg
+
+commands:
+  rules:
+    aliases: [rule]
+    
+  staff:
+     
+  spawn:
+     

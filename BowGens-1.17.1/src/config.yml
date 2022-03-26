@@ -1,0 +1,9 @@
+firstjoin_message: '&6Welcome &c<player> &6to Bow Gens!'
+
+join_message: '&c<player> &6has joined the server'
+
+leave_message: '&c<player> &6has left the server'
+
+ban_message: '&4<player> has been banned!'
+
+unban_message: '&4<player> has been unbanned!'
